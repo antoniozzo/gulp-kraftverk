@@ -1,0 +1,25 @@
+{
+  "name": "gulp-kraftverk",
+  "version": "0.0.1",
+  "description": "Gulp plugin for generating KSS (Knyle Style Sheets) styleguides",
+  "author": {
+    "name": "Antonio Rizzo",
+    "email": "antonio.rizzo@oakwood.se"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antoniozzo/gulp-kraftverk.git"
+  },
+  "keywords": [
+    "kss",
+    "documentation",
+    "styleguide",
+    "generator",
+    "gulp"
+  ],
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.0"
+  }
+}
