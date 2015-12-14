@@ -1,6 +1,6 @@
 {
   "name": "gulp-kraftverk",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Gulp plugin for generating KSS (Knyle Style Sheets) styleguides",
   "author": {
     "name": "Antonio Rizzo",
